@@ -1,0 +1,22 @@
+{
+  "name": "fabre-skeltal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozukichi/fabre-skeltal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozukichi/fabre-skeltal/issues"
+  },
+  "homepage": "https://github.com/mozukichi/fabre-skeltal#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
